@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI 字幕產生器 (AI Subtitle Generator)",
+  "description": "精準識別語音，自動產生符合標準 SRT 格式的字幕，支援自訂專業名詞庫以優化識別品質。",
+  "requestFramePermissions": []
+}
